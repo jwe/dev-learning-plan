@@ -5,3 +5,6 @@
 - 3.JS
 - 4.java
 - 5.Data structure and algorithm
+
+
+too naive too young
