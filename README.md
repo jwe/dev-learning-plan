@@ -8,3 +8,6 @@
 
 
 too naive too young
+
+
+keep codding and learning
